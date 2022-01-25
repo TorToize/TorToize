@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TorToize
 - 👀 I’m interested in devlopment
-- 🌱 I’m currently learning computer science and engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web Devlopment
+
 
 <!---
 TorToize/TorToize is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
